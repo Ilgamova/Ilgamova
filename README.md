@@ -1,4 +1,4 @@
-# Привет, меня зовут Лия!
+
 
 ---
 
@@ -6,7 +6,7 @@
 
 Я начинающий тестировщик, который только на начале пути! 
 
-Ознакомиться с моим резюме можно [тут](https://drive.google.com/file/d/19oYG6Fte-MHf11jsBIzipCs3Y_PCRo7P/view?usp=sharing). 
+Ознакомиться с моим резюме можно 
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:05liya9612@gmail.com) [![Yandex Badge](https://img.shields.io/badge/-Яндекс-red?style=plastic&logo=Yandex&logoColor=white)](mailto:illiya.li@yandex.ru)
 
